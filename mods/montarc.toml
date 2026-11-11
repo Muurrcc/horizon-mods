@@ -35,7 +35,7 @@ source = "https://github.com/Muurrcc/montarc"
 icon = "icons/montarc.png"
 categories = ["semi-realistic", "colored-lighting", "shadows"]
 tags = ["colorful", "shadows", "water", "wind", "bloom", "fxaa"]
-screenshots = ["screenshots/montarc/1.png", "screenshots/montarc/2.png", "screenshots/montarc/3.png", "screenshots/montarc/4.png", "screenshots/montarc/5.png", "screenshots/montarc/6.png", "screenshots/montarc/7.png"]
+screenshots = ["screenshots/montarc/1.jpg", "screenshots/montarc/2.jpg", "screenshots/montarc/3.jpg", "screenshots/montarc/4.jpg", "screenshots/montarc/5.jpg", "screenshots/montarc/6.jpg", "screenshots/montarc/7.jpg"]
 
 [[versions]]
 version = "1.1.1"
